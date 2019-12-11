@@ -1,0 +1,29 @@
+#inputLable {
+    color: maroon;
+    margin-top: 15px;
+}
+
+#inputID {
+    background-color: burlywood
+}
+
+.footer {
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    min-height: 60px;
+    background: #3a57c1;
+    z-index: 20;
+
+}
+
+.header {
+    /* border: 1px solid #000; */
+    min-width: 100%;
+    min-height: 60px;
+    background: #3a57c1;
+    position: fixed;
+    top: -7px;
+    z-index: 20;
+}
